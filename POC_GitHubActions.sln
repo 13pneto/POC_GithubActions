@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_GitHubActions", "POC_GitHubActions\POC_GitHubActions.csproj", "{3B383CEF-5F7F-4353-A31D-2A7B549A80C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "test\UnitTests\UnitTests\UnitTests.csproj", "{1F9BC442-E34E-4EF3-A662-ECE2D47B019C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3B383CEF-5F7F-4353-A31D-2A7B549A80C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B383CEF-5F7F-4353-A31D-2A7B549A80C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B383CEF-5F7F-4353-A31D-2A7B549A80C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9BC442-E34E-4EF3-A662-ECE2D47B019C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9BC442-E34E-4EF3-A662-ECE2D47B019C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9BC442-E34E-4EF3-A662-ECE2D47B019C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9BC442-E34E-4EF3-A662-ECE2D47B019C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
